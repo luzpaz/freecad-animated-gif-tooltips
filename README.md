@@ -9,7 +9,8 @@ Using animated gifs to demonstrate what each FreeCAD command does
 ![Part Design Revolution](https://2.bp.blogspot.com/-lwBJamnY518/VvQ4DlPOxRI/AAAAAAAACwY/RBwjZfyW6lYVSFrn5rnw4yhOgnavcietg/s1600/revolution.gif)
 
 ## Guidelines 
-List of guidelines to create these gifs in a uniform fashion
+List of guidelines to create these gifs in a uniform fashion  
+[Guidelines Draft](https://gist.github.com/luzpaz/e8868cc3f0f935fd6ad3ca68ca43b3ba)
 
 ## References 
 * [Campaign to add language agnostic animated gifs to each FC command page on the wiki (+ possibly as tooltips in FC)](https://forum.freecadweb.org/viewtopic.php?f=21&t=22781)  
