@@ -17,7 +17,9 @@ List of guidelines to create these gifs in a uniform fashion, all gifs then need
 
 ## TODO
 * Find out how users can put a timer in the bottom right corner of a gif
-* Code that implements popping up a gif as a tooltip
+* Logic that implements popping up a gif as a tooltip
+* Logic to turn animated gif tooltips on/off
+
 ## References 
 * [Campaign to add language agnostic animated gifs to each FC command page on the wiki (+ possibly as tooltips in FC)](https://forum.freecadweb.org/viewtopic.php?f=21&t=22781)  
 * [Feature Request: Expand tooltip with GIF image](https://forum.freecadweb.org/viewtopic.php?f=8&t=14972)  
