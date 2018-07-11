@@ -9,9 +9,15 @@ Using animated gifs to demonstrate what each FreeCAD command does
 ![Part Design Revolution](https://2.bp.blogspot.com/-lwBJamnY518/VvQ4DlPOxRI/AAAAAAAACwY/RBwjZfyW6lYVSFrn5rnw4yhOgnavcietg/s1600/revolution.gif)
 
 ## Guidelines 
-List of guidelines to create these gifs in a uniform fashion  
-[Guidelines Draft](https://gist.github.com/luzpaz/e8868cc3f0f935fd6ad3ca68ca43b3ba)
+List of guidelines to create these gifs in a uniform fashion, all gifs then need:
+* to be as language agnostic as possible (this may be difficult but we can be creative)
+* to be the standard size of 200x200px 
+* to have a timer in the bottom right corner to help user understand when gif has ended (more research needed)
+* to have the same color background (dark blue, see examples above)
 
+## TODO
+* Find out how users can put a timer in the bottom right corner of a gif
+* Code that implements popping up a gif as a tooltip
 ## References 
 * [Campaign to add language agnostic animated gifs to each FC command page on the wiki (+ possibly as tooltips in FC)](https://forum.freecadweb.org/viewtopic.php?f=21&t=22781)  
 * [Feature Request: Expand tooltip with GIF image](https://forum.freecadweb.org/viewtopic.php?f=8&t=14972)  
